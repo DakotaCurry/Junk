@@ -1,0 +1,29 @@
+{
+  "ClientId": 423208106168811520,
+  "Token": "NDIzMjA4MTA2MTY4ODExNTIw.DYm-0g.iDnT_31fI6v8gnV1wnxL3tHyZmE",
+  "OwnerIds": [
+    281474627212148736
+  ],
+  "LoLApiKey": "",
+  "GoogleApiKey": "",
+  "MashapeKey": "",
+  "OsuApiKey": "",
+  "SoundCloudClientId": "",
+  "CleverbotApiKey": "",
+  "CarbonKey": "",
+  "Db": {
+    "Type": "sqlite",
+    "ConnectionString": "Data Source=data/NadekoBot.db"
+  },
+  "TotalShards": 1,
+  "PatreonAccessToken": "",
+  "PatreonCampaignId": "334038",
+  "RestartCommand": null,
+  "ShardRunCommand": "",
+  "ShardRunArguments": "",
+  "ShardRunPort": null,
+  "MiningProxyUrl": null,
+  "MiningProxyCreds": null,
+  "BotListToken": null
+  
+  client.login{process.env.BOT_TOKEN}:
